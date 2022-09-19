@@ -1,0 +1,16 @@
+{
+  "name": "professional_js",
+  "version": "1.0.0",
+  "description": "Proyecto del curso profesional de JavaScript de la escuela de platzi",
+  "license": "MIT",
+  "author": "Elvis Ronald Cruz Chullo <elviscruz45@gmail.com>",
+  "keywords": [
+    "platzi"
+  ],
+  "scripts": {
+    "start":"live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
