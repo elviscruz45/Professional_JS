@@ -1,5 +1,5 @@
 // Importing MediaPlayer class and AutoPlay,AutoPause pluggins
-import MediaPlayer from "../../mediaplayer/MediaPlayer"
+import MediaPlayer from "../../mediaplayer/src/MediaPlayer"
 import AutoPlay from "./plugins/AutoPlay"
 import AutoPause from "./plugins/AutoPause"
 import Ads from "./plugins/Ads"

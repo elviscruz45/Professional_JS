@@ -1,20 +1,20 @@
 {
   "name": "professional_js",
   "version": "1.0.0",
-  "description": "Proyecto del curso profesional de JavaScript de la escuela de platzi",
-  "license": "MIT",
-  "author": "Elvis Ronald Cruz Chullo <elviscruz45@gmail.com>",
-  "keywords": [
-    "platzi"
-  ],
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "parcel index.html ejercicios/index.html ejercicios/**/*.html"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
-    "parcel-bundler": "^1.12.5",
-    "typescript": "^4.8.4"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elviscruz45/Professional_JS.git"
   },
-  "browserslist": [
-    "last 1 Chrome version"
-  ]
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elviscruz45/Professional_JS/issues"
+  },
+  "homepage": "https://github.com/elviscruz45/Professional_JS#readme"
 }

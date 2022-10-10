@@ -1,0 +1,23 @@
+{
+  "name": "professional_js",
+  "version": "1.0.0",
+  "description": "Proyecto del curso profesional de JavaScript de la escuela de platzi",
+  "license": "MIT",
+  "author": "Elvis Ronald Cruz Chullo <elviscruz45@gmail.com>",
+  "keywords": [
+    "platzi"
+  ],
+  "scripts": {
+    "start": "parcel index.html ejercicios/index.html ejercicios/**/*.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^4.8.4"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ],
+  "dependencies": {
+    "@elviscruz45/mediaplayer": "^1.0.0"
+  }
+}
